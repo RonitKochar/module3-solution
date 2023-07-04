@@ -36,7 +36,7 @@ ul{
 }
 
 
-@media(max-width:575px){
+@media(max-width:767px){
 button{
   position: absolute;
   right: 20px;
@@ -44,7 +44,7 @@ button{
 }
 }
 
-@media(min-width:576px){
+@media(min-width:768px){
   .show{
     display: none;
   }
